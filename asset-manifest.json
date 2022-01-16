@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/PaymentIntegrationReactWebsite/static/css/main.9e739ae8.css",
+    "main.js": "/PaymentIntegrationReactWebsite/static/js/main.a4800219.js",
+    "static/media/3.jpg": "/PaymentIntegrationReactWebsite/static/media/3.db30ef7364b556958212.jpg",
+    "static/media/education.jpg": "/PaymentIntegrationReactWebsite/static/media/education.a941a040d5013591a0ac.jpg",
+    "static/media/distribution.jpg": "/PaymentIntegrationReactWebsite/static/media/distribution.b154b909d1e518c5b67c.jpg",
+    "static/media/meals.jpg": "/PaymentIntegrationReactWebsite/static/media/meals.969f12b117a6d0fbd38b.jpg",
+    "static/media/4.jpg": "/PaymentIntegrationReactWebsite/static/media/4.e5f43a278854bc0eb869.jpg",
+    "static/media/5.jpg": "/PaymentIntegrationReactWebsite/static/media/5.97183e6c49467b87e875.jpg",
+    "index.html": "/PaymentIntegrationReactWebsite/index.html",
+    "main.9e739ae8.css.map": "/PaymentIntegrationReactWebsite/static/css/main.9e739ae8.css.map",
+    "main.a4800219.js.map": "/PaymentIntegrationReactWebsite/static/js/main.a4800219.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e739ae8.css",
+    "static/js/main.a4800219.js"
+  ]
+}
